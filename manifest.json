@@ -1,0 +1,21 @@
+{
+  "name": "RITMO - Constância Comercial",
+  "short_name": "RITMO",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Ferramenta de consistência comercial.",
+  "icons": [
+    {
+      "src": "https://esm.sh/lucide-static/icons/activity.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://esm.sh/lucide-static/icons/activity.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
